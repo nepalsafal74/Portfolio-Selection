@@ -2,8 +2,8 @@
 Greedy vs. 0/1 Knapsack: Portfolio Selection Lab
 
 **CSCE 4110 - Algorithms, Semester Project**
-Author: Safal Nepal (individual project, approved by the professor)
-Demonstration video: [PASTE PUBLIC VIDEO LINK HERE]
+Author: Safal Nepal (individual project)
+Demonstration video: https://drive.google.com/file/d/1BF6-K0QWCe5O88BAiZ7uGUGgNJR9TixS/view?usp=sharing
 Report: `report/report.pdf`
 
 ## Project description
